@@ -4,10 +4,10 @@ A demo app for carousel loop viewpager for Android.
 
 ## Preview
 - mobile
-<img src="carousel-mobile-preview.png width="200" height="400" />
+<img src="carousel-mobile-preview.png" width="300" height="500" />
 
 - tablet
-<img src="https://github.com/henryarm/LoopCarousel-Android/blob/master/carousel-mobile-preview.png?raw=true" width="200" height="400" />
+<img src="carousel-tablet-preview.png" width="500" height="700" />
 
 ### Credit
 - [DevExchanges](https://github.com/DevExchanges/Carousel-Layout-by-ViewPager)
