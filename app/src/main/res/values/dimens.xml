@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="carousel_description_text_margin_bottom">10dp</dimen>
+    <dimen name="carousel_view_height">200dp</dimen>
+    <dimen name="carousel_layout_margin_top">20dp</dimen>
+    <dimen name="text_size_text_small">14sp</dimen>
+    <dimen name="text_size_text_smallest">12sp</dimen>
+    <dimen name="carousel_padding_title">10dp</dimen>
+    <dimen name="carousel_margin_top_title">0dp</dimen>
+    <dimen name="carousel_margin_top_desc">0dp</dimen>
+
+</resources>
