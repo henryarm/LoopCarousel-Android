@@ -1,12 +1,12 @@
 # LoopCarousel-Android
 
-A demo app for carousel loop viewpager for Android.
+A demo app loop viewpager for Android.
 
 ## Preview
-- mobile
+- Mobile
 <img src="carousel-mobile-preview.png" width="300" height="500" />
 
-- tablet
+- Tablet
 <img src="carousel-tablet-preview.png" width="500" height="700" />
 
 ### Credit
